@@ -25,7 +25,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-### `************************************************************************************************************************`
+### `*****************************************************************************************`
 
 ### `FUTURE IMPROVEMENTS`
-Addition of handling of API errors through snackbar, uniform placement of icons of all cards of tasks and edit errors.
+Addition of handling of API errors through snackbar, uniform placement of icons of all cards of tasks, edit data preservation and writing of unit test cases.
