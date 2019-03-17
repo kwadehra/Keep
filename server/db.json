@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "neelanjan.sen@gmail.com",
+      "name": "Neelanjan",
+      "password": "asd",
+      "notes": [
+        {
+          "id": 15489.723835543,
+          "noteTitle": "take bath",
+          "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday. I'm sick."
+        },
+        {
+          "id": 2065717.69852486,
+          "noteTitle": "YAAAAY!!!",
+          "noteDescription": "I've finally made this app multi user. Now many users can login and see this."
+        }
+      ]
+    },
+    {
+      "id": "paliwal@gmail.com",
+      "name": "Paliwal",
+      "password": "asd",
+      "notes": [
+        {
+          "id": 1548669.723835543,
+          "noteTitle": "take bath",
+          "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday"
+        },
+        {
+          "id": 2065717.6985248306,
+          "noteTitle": "YAAAAY!!!",
+          "noteDescription": "I've finally made this app multi user"
+        }
+      ]
+    },
+    {
+      "id": "neel@gmail.com",
+      "name": "Neel",
+      "password": "asd",
+      "notes": [
+        {
+          "id": 15489.7238355,
+          "noteTitle": "take bath",
+          "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday. I'm sick."
+        },
+        {
+          "id": 2065717.698524,
+          "noteTitle": "YAAAAY!!!",
+          "noteDescription": "I've finally made this app multi user. Now many users can login and see this."
+        },
+        {
+          "id": 2065717.6985,
+          "noteTitle": "YAAAAY!!!",
+          "noteDescription": "I've finally made this app multi user. Now many users can login and see this and enjoy."
+        }
+      ]
+    },
+    {
+      "id": "asd",
+      "name": "asd",
+      "password": "asd",
+      "notes": []
+    },
+    {
+      "id": "kartik",
+      "name": "Kartik",
+      "password": "kartik",
+      "notes": []
+    },
+    {
+      "id": "ka",
+      "name": "ka",
+      "password": "ka",
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.root {
+    flex-grow : 1
+}
+.grow {
+    flex-grow: 1
+}
+#logoimage {
+    width:48px;
+    height:48px;
+    float: left;
+}
+#keepTitle {
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%
+}
+#login {
+    float: right;
+    margin-left:10%;
+}
+.appBar {
+    color: '#607d8b'
+}
